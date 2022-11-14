@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-03T13:54:07 IST" name="Suite" finished-at="2022-11-03T13:55:23 IST" duration-ms="75640">
+    <groups>
+    </groups>
+    <test started-at="2022-11-03T13:54:07 IST" name="chromeTest" finished-at="2022-11-03T13:54:37 IST" duration-ms="29834">
+      <class name="PomClass.TC02_VerifyLogoutFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:PomClass.TC02_VerifyLogoutFunctionality@5ffead27]" started-at="2022-11-03T13:54:31 IST" name="setup" finished-at="2022-11-03T13:54:36 IST" duration-ms="4619" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLogout()[pri:0, instance:PomClass.TC02_VerifyLogoutFunctionality@5ffead27]" started-at="2022-11-03T13:54:36 IST" name="VerifyLogout" finished-at="2022-11-03T13:54:37 IST" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogout -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:PomClass.TC02_VerifyLogoutFunctionality@5ffead27]" started-at="2022-11-03T13:54:37 IST" name="TearDown" finished-at="2022-11-03T13:54:37 IST" duration-ms="586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PomClass.TC02_VerifyLogoutFunctionality -->
+      <class name="PomClass.TC01_VerifyLoginFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:PomClass.TC01_VerifyLoginFunctionality@4567f35d]" started-at="2022-11-03T13:54:25 IST" name="setup" finished-at="2022-11-03T13:54:30 IST" duration-ms="4873" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin()[pri:0, instance:PomClass.TC01_VerifyLoginFunctionality@4567f35d]" started-at="2022-11-03T13:54:30 IST" name="verifylogin" finished-at="2022-11-03T13:54:31 IST" duration-ms="930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:PomClass.TC01_VerifyLoginFunctionality@4567f35d]" started-at="2022-11-03T13:54:31 IST" name="TearDown" finished-at="2022-11-03T13:54:31 IST" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PomClass.TC01_VerifyLoginFunctionality -->
+      <class name="PomClass.TC03_VerifyAddToCartFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:PomClass.TC03_VerifyAddToCartFunctionality@2e005c4b]" started-at="2022-11-03T13:54:19 IST" name="setup" finished-at="2022-11-03T13:54:24 IST" duration-ms="5017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verifyaddtocart()[pri:0, instance:PomClass.TC03_VerifyAddToCartFunctionality@2e005c4b]" started-at="2022-11-03T13:54:24 IST" name="Verifyaddtocart" finished-at="2022-11-03T13:54:24 IST" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyaddtocart -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:PomClass.TC03_VerifyAddToCartFunctionality@2e005c4b]" started-at="2022-11-03T13:54:24 IST" name="TearDown" finished-at="2022-11-03T13:54:25 IST" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PomClass.TC03_VerifyAddToCartFunctionality -->
+      <class name="PomClass.TC04VerifyAllProductsFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:PomClass.TC04VerifyAllProductsFunctionality@16ec5519]" started-at="2022-11-03T13:54:07 IST" name="setup" finished-at="2022-11-03T13:54:17 IST" duration-ms="9605" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verifyallproducts()[pri:0, instance:PomClass.TC04VerifyAllProductsFunctionality@16ec5519]" started-at="2022-11-03T13:54:17 IST" name="Verifyallproducts" finished-at="2022-11-03T13:54:18 IST" duration-ms="1333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyallproducts -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:PomClass.TC04VerifyAllProductsFunctionality@16ec5519]" started-at="2022-11-03T13:54:18 IST" name="TearDown" finished-at="2022-11-03T13:54:19 IST" duration-ms="488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PomClass.TC04VerifyAllProductsFunctionality -->
+    </test> <!-- chromeTest -->
+    <test started-at="2022-11-03T13:54:37 IST" name="firefoxTest" finished-at="2022-11-03T13:55:23 IST" duration-ms="45661">
+      <class name="PomClass.TC02_VerifyLogoutFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:PomClass.TC02_VerifyLogoutFunctionality@c8c12ac]" started-at="2022-11-03T13:55:12 IST" name="setup" finished-at="2022-11-03T13:55:20 IST" duration-ms="8180" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLogout()[pri:0, instance:PomClass.TC02_VerifyLogoutFunctionality@c8c12ac]" started-at="2022-11-03T13:55:20 IST" name="VerifyLogout" finished-at="2022-11-03T13:55:21 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogout -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:PomClass.TC02_VerifyLogoutFunctionality@c8c12ac]" started-at="2022-11-03T13:55:21 IST" name="TearDown" finished-at="2022-11-03T13:55:23 IST" duration-ms="1976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PomClass.TC02_VerifyLogoutFunctionality -->
+      <class name="PomClass.TC01_VerifyLoginFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:PomClass.TC01_VerifyLoginFunctionality@7f0eb4b4]" started-at="2022-11-03T13:55:02 IST" name="setup" finished-at="2022-11-03T13:55:10 IST" duration-ms="8102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin()[pri:0, instance:PomClass.TC01_VerifyLoginFunctionality@7f0eb4b4]" started-at="2022-11-03T13:55:10 IST" name="verifylogin" finished-at="2022-11-03T13:55:10 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:PomClass.TC01_VerifyLoginFunctionality@7f0eb4b4]" started-at="2022-11-03T13:55:10 IST" name="TearDown" finished-at="2022-11-03T13:55:12 IST" duration-ms="1925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PomClass.TC01_VerifyLoginFunctionality -->
+      <class name="PomClass.TC03_VerifyAddToCartFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:PomClass.TC03_VerifyAddToCartFunctionality@2b662a77]" started-at="2022-11-03T13:54:51 IST" name="setup" finished-at="2022-11-03T13:55:00 IST" duration-ms="8351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verifyaddtocart()[pri:0, instance:PomClass.TC03_VerifyAddToCartFunctionality@2b662a77]" started-at="2022-11-03T13:55:00 IST" name="Verifyaddtocart" finished-at="2022-11-03T13:55:00 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyaddtocart -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:PomClass.TC03_VerifyAddToCartFunctionality@2b662a77]" started-at="2022-11-03T13:55:00 IST" name="TearDown" finished-at="2022-11-03T13:55:02 IST" duration-ms="1983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PomClass.TC03_VerifyAddToCartFunctionality -->
+      <class name="PomClass.TC04VerifyAllProductsFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:PomClass.TC04VerifyAllProductsFunctionality@57a3af25]" started-at="2022-11-03T13:54:37 IST" name="setup" finished-at="2022-11-03T13:54:48 IST" duration-ms="10173" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verifyallproducts()[pri:0, instance:PomClass.TC04VerifyAllProductsFunctionality@57a3af25]" started-at="2022-11-03T13:54:48 IST" name="Verifyallproducts" finished-at="2022-11-03T13:54:49 IST" duration-ms="1814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyallproducts -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:PomClass.TC04VerifyAllProductsFunctionality@57a3af25]" started-at="2022-11-03T13:54:49 IST" name="TearDown" finished-at="2022-11-03T13:54:51 IST" duration-ms="1825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PomClass.TC04VerifyAllProductsFunctionality -->
+    </test> <!-- firefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
